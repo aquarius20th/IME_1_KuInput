@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/keyboard" >
+        <file>src/lowKeyboard.JPG</file>
+        <file>src/highKeyboard.JPG</file>
+        <file>src/func.JPG</file>
+        <file>src/py.txt</file>
+    </qresource>
+</RCC>
